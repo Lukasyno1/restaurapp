@@ -127,6 +127,9 @@
             "projectReferences": {
               "D:\\Development\\Restaurapp\\Restaurapp.Contracts\\Restaurapp.Contracts.csproj": {
                 "projectPath": "D:\\Development\\Restaurapp\\Restaurapp.Contracts\\Restaurapp.Contracts.csproj"
+              },
+              "D:\\Development\\Restaurapp\\Restaurapp.DataAccess\\Restaurapp.DataAccess.csproj": {
+                "projectPath": "D:\\Development\\Restaurapp\\Restaurapp.DataAccess\\Restaurapp.DataAccess.csproj"
               }
             }
           }
@@ -144,6 +147,10 @@
             "MediatR": {
               "target": "Package",
               "version": "[12.1.1, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.12, )"
             }
           },
           "imports": [

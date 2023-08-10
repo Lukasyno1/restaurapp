@@ -1,4 +1,5 @@
 ﻿using MediatR;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Restaurapp.Contracts.Commands.Auth;
 
@@ -6,6 +7,7 @@ namespace Restaurapp.API.Controllers
 {
     [ApiController]
     [Route("auth")]
+    [AllowAnonymous]
     public class AuthController : ControllerBase
     {
         private readonly IMediator _mediator;
@@ -19,7 +21,7 @@ namespace Restaurapp.API.Controllers
         public async Task<IActionResult> Login(LoginCommand command)
         {
             var result = await _mediator.Send(command);
-            return result.Length > 0 ? Ok(result) : StatusCode(500);
+            return result?.Length > 0 ? Ok(result) : StatusCode(403);
         }
     }
 }

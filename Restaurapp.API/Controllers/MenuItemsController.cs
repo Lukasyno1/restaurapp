@@ -1,6 +1,5 @@
 ﻿using MediatR;
 using Microsoft.AspNetCore.Mvc;
-using Restaurapp.Contracts.Commands.MenuItems;
 using Restaurapp.Contracts.Queries.MenuItems;
 
 namespace Restaurapp.API.Controllers

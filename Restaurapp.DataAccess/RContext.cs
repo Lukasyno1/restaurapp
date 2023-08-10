@@ -28,11 +28,6 @@ namespace Restaurapp.DataAccess
                 .HasOne(omi => omi.Order)
                 .WithMany(o => o.MenuItems)
                 .HasForeignKey(o => o.OrderId);
-
-            modelBuilder.Entity<Order>()
-                .HasMany(o => o.OrderUpdates)
-                .WithOne(ou => ou.Order)
-                .HasForeignKey(ou => ou.OrderId);
         }
     }
 }
