@@ -1,0 +1,15 @@
+D:\Development\Restaurapp\Restaurapp.Application\bin\Debug\net6.0\Restaurapp.Application.deps.json
+D:\Development\Restaurapp\Restaurapp.Application\bin\Debug\net6.0\Restaurapp.Application.dll
+D:\Development\Restaurapp\Restaurapp.Application\bin\Debug\net6.0\Restaurapp.Application.pdb
+D:\Development\Restaurapp\Restaurapp.Application\bin\Debug\net6.0\Restaurapp.Contracts.dll
+D:\Development\Restaurapp\Restaurapp.Application\bin\Debug\net6.0\Restaurapp.Contracts.pdb
+D:\Development\Restaurapp\Restaurapp.Application\obj\Debug\net6.0\Restaurapp.Application.csproj.AssemblyReference.cache
+D:\Development\Restaurapp\Restaurapp.Application\obj\Debug\net6.0\Restaurapp.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Development\Restaurapp\Restaurapp.Application\obj\Debug\net6.0\Restaurapp.Application.AssemblyInfoInputs.cache
+D:\Development\Restaurapp\Restaurapp.Application\obj\Debug\net6.0\Restaurapp.Application.AssemblyInfo.cs
+D:\Development\Restaurapp\Restaurapp.Application\obj\Debug\net6.0\Restaurapp.Application.csproj.CoreCompileInputs.cache
+D:\Development\Restaurapp\Restaurapp.Application\obj\Debug\net6.0\Restaurapp.Application.csproj.CopyComplete
+D:\Development\Restaurapp\Restaurapp.Application\obj\Debug\net6.0\Restaurapp.Application.dll
+D:\Development\Restaurapp\Restaurapp.Application\obj\Debug\net6.0\refint\Restaurapp.Application.dll
+D:\Development\Restaurapp\Restaurapp.Application\obj\Debug\net6.0\Restaurapp.Application.pdb
+D:\Development\Restaurapp\Restaurapp.Application\obj\Debug\net6.0\ref\Restaurapp.Application.dll

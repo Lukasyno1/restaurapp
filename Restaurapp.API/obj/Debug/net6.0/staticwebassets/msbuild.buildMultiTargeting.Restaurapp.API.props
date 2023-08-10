@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Restaurapp.API.props" />
+</Project>
