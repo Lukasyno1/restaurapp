@@ -349,7 +349,8 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
-          "MediatR": "12.1.1"
+          "MediatR": "12.1.1",
+          "Restaurapp.Domain": "1.0.0"
         },
         "compile": {
           "bin/placeholder/Restaurapp.Contracts.dll": {}
@@ -839,11 +840,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Development\\Restaurapp\\Restaurapp.Application\\Restaurapp.Application.csproj",
+      "projectUniqueName": "D:\\Development\\#2 rest\\restaurapp\\Restaurapp.Application\\Restaurapp.Application.csproj",
       "projectName": "Restaurapp.Application",
-      "projectPath": "D:\\Development\\Restaurapp\\Restaurapp.Application\\Restaurapp.Application.csproj",
+      "projectPath": "D:\\Development\\#2 rest\\restaurapp\\Restaurapp.Application\\Restaurapp.Application.csproj",
       "packagesPath": "C:\\Users\\Lukasyno\\.nuget\\packages\\",
-      "outputPath": "D:\\Development\\Restaurapp\\Restaurapp.Application\\obj\\",
+      "outputPath": "D:\\Development\\#2 rest\\restaurapp\\Restaurapp.Application\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Lukasyno\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -860,11 +861,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\Development\\Restaurapp\\Restaurapp.Contracts\\Restaurapp.Contracts.csproj": {
-              "projectPath": "D:\\Development\\Restaurapp\\Restaurapp.Contracts\\Restaurapp.Contracts.csproj"
+            "D:\\Development\\#2 rest\\restaurapp\\Restaurapp.Contracts\\Restaurapp.Contracts.csproj": {
+              "projectPath": "D:\\Development\\#2 rest\\restaurapp\\Restaurapp.Contracts\\Restaurapp.Contracts.csproj"
             },
-            "D:\\Development\\Restaurapp\\Restaurapp.DataAccess\\Restaurapp.DataAccess.csproj": {
-              "projectPath": "D:\\Development\\Restaurapp\\Restaurapp.DataAccess\\Restaurapp.DataAccess.csproj"
+            "D:\\Development\\#2 rest\\restaurapp\\Restaurapp.DataAccess\\Restaurapp.DataAccess.csproj": {
+              "projectPath": "D:\\Development\\#2 rest\\restaurapp\\Restaurapp.DataAccess\\Restaurapp.DataAccess.csproj"
             }
           }
         }

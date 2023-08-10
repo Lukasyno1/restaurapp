@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GfD5CUGsJEwKng+qjGaFFm0b2YdY3IXiz+xNorfIkX0Aw4hagEIysxHCt2YeSSMuWPI3tBZVibtALb6AzboAJg==",
+  "dgSpecHash": "6O0TEQagYy/QQEroEK2r5Fjq2riDUnP8HA8qaqrvWqxbGPFXtSZOe+gxwPiHBNPP+CTgfnPW++hEIWQkcTxw4A==",
   "success": true,
-  "projectFilePath": "D:\\Development\\Restaurapp\\Restaurapp.Domain\\Restaurapp.Domain.csproj",
+  "projectFilePath": "D:\\Development\\#2 rest\\restaurapp\\Restaurapp.Domain\\Restaurapp.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

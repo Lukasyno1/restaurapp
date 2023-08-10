@@ -15,3 +15,20 @@ D:\Development\Restaurapp\Restaurapp.DataAccess\bin\Debug\net6.0\Restaurapp.Doma
 D:\Development\Restaurapp\Restaurapp.DataAccess\bin\Debug\net6.0\Restaurapp.Domain.pdb
 D:\Development\Restaurapp\Restaurapp.DataAccess\obj\Debug\net6.0\Restaurapp.DataAccess.csproj.CopyComplete
 D:\Development\Restaurapp\Restaurapp.DataAccess\obj\Debug\net6.0\Restaurapp.DataAccess.genruntimeconfig.cache
+D:\Development\#2 rest\restaurapp\Restaurapp.DataAccess\bin\Debug\net6.0\Restaurapp.DataAccess.deps.json
+D:\Development\#2 rest\restaurapp\Restaurapp.DataAccess\bin\Debug\net6.0\Restaurapp.DataAccess.runtimeconfig.json
+D:\Development\#2 rest\restaurapp\Restaurapp.DataAccess\bin\Debug\net6.0\Restaurapp.DataAccess.dll
+D:\Development\#2 rest\restaurapp\Restaurapp.DataAccess\bin\Debug\net6.0\Restaurapp.DataAccess.pdb
+D:\Development\#2 rest\restaurapp\Restaurapp.DataAccess\bin\Debug\net6.0\Restaurapp.Domain.dll
+D:\Development\#2 rest\restaurapp\Restaurapp.DataAccess\bin\Debug\net6.0\Restaurapp.Domain.pdb
+D:\Development\#2 rest\restaurapp\Restaurapp.DataAccess\obj\Debug\net6.0\Restaurapp.DataAccess.csproj.AssemblyReference.cache
+D:\Development\#2 rest\restaurapp\Restaurapp.DataAccess\obj\Debug\net6.0\Restaurapp.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Development\#2 rest\restaurapp\Restaurapp.DataAccess\obj\Debug\net6.0\Restaurapp.DataAccess.AssemblyInfoInputs.cache
+D:\Development\#2 rest\restaurapp\Restaurapp.DataAccess\obj\Debug\net6.0\Restaurapp.DataAccess.AssemblyInfo.cs
+D:\Development\#2 rest\restaurapp\Restaurapp.DataAccess\obj\Debug\net6.0\Restaurapp.DataAccess.csproj.CoreCompileInputs.cache
+D:\Development\#2 rest\restaurapp\Restaurapp.DataAccess\obj\Debug\net6.0\Restaurapp.DataAccess.csproj.CopyComplete
+D:\Development\#2 rest\restaurapp\Restaurapp.DataAccess\obj\Debug\net6.0\Restaurapp.DataAccess.dll
+D:\Development\#2 rest\restaurapp\Restaurapp.DataAccess\obj\Debug\net6.0\refint\Restaurapp.DataAccess.dll
+D:\Development\#2 rest\restaurapp\Restaurapp.DataAccess\obj\Debug\net6.0\Restaurapp.DataAccess.pdb
+D:\Development\#2 rest\restaurapp\Restaurapp.DataAccess\obj\Debug\net6.0\Restaurapp.DataAccess.genruntimeconfig.cache
+D:\Development\#2 rest\restaurapp\Restaurapp.DataAccess\obj\Debug\net6.0\ref\Restaurapp.DataAccess.dll

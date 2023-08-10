@@ -17,3 +17,22 @@ D:\Development\Restaurapp\Restaurapp.Application\bin\Debug\net6.0\Restaurapp.Dat
 D:\Development\Restaurapp\Restaurapp.Application\bin\Debug\net6.0\Restaurapp.Domain.dll
 D:\Development\Restaurapp\Restaurapp.Application\bin\Debug\net6.0\Restaurapp.DataAccess.pdb
 D:\Development\Restaurapp\Restaurapp.Application\bin\Debug\net6.0\Restaurapp.Domain.pdb
+D:\Development\#2 rest\restaurapp\Restaurapp.Application\bin\Debug\net6.0\Restaurapp.Application.deps.json
+D:\Development\#2 rest\restaurapp\Restaurapp.Application\bin\Debug\net6.0\Restaurapp.Application.dll
+D:\Development\#2 rest\restaurapp\Restaurapp.Application\bin\Debug\net6.0\Restaurapp.Application.pdb
+D:\Development\#2 rest\restaurapp\Restaurapp.Application\bin\Debug\net6.0\Restaurapp.Contracts.dll
+D:\Development\#2 rest\restaurapp\Restaurapp.Application\bin\Debug\net6.0\Restaurapp.DataAccess.dll
+D:\Development\#2 rest\restaurapp\Restaurapp.Application\bin\Debug\net6.0\Restaurapp.Domain.dll
+D:\Development\#2 rest\restaurapp\Restaurapp.Application\bin\Debug\net6.0\Restaurapp.Contracts.pdb
+D:\Development\#2 rest\restaurapp\Restaurapp.Application\bin\Debug\net6.0\Restaurapp.DataAccess.pdb
+D:\Development\#2 rest\restaurapp\Restaurapp.Application\bin\Debug\net6.0\Restaurapp.Domain.pdb
+D:\Development\#2 rest\restaurapp\Restaurapp.Application\obj\Debug\net6.0\Restaurapp.Application.csproj.AssemblyReference.cache
+D:\Development\#2 rest\restaurapp\Restaurapp.Application\obj\Debug\net6.0\Restaurapp.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Development\#2 rest\restaurapp\Restaurapp.Application\obj\Debug\net6.0\Restaurapp.Application.AssemblyInfoInputs.cache
+D:\Development\#2 rest\restaurapp\Restaurapp.Application\obj\Debug\net6.0\Restaurapp.Application.AssemblyInfo.cs
+D:\Development\#2 rest\restaurapp\Restaurapp.Application\obj\Debug\net6.0\Restaurapp.Application.csproj.CoreCompileInputs.cache
+D:\Development\#2 rest\restaurapp\Restaurapp.Application\obj\Debug\net6.0\Restaurapp.Application.csproj.CopyComplete
+D:\Development\#2 rest\restaurapp\Restaurapp.Application\obj\Debug\net6.0\Restaurapp.Application.dll
+D:\Development\#2 rest\restaurapp\Restaurapp.Application\obj\Debug\net6.0\refint\Restaurapp.Application.dll
+D:\Development\#2 rest\restaurapp\Restaurapp.Application\obj\Debug\net6.0\Restaurapp.Application.pdb
+D:\Development\#2 rest\restaurapp\Restaurapp.Application\obj\Debug\net6.0\ref\Restaurapp.Application.dll

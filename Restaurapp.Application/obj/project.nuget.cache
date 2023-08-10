@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7Vcy2V+hAWwPrwdKMMJHjAJNmrFJUAp1V3HnLV4R51Q1SU15rL1gu1idfshVqhD2M/+wiYJu5NNMlKJaaBW5Uw==",
+  "dgSpecHash": "2qeV+2sILQtkQiTUGvmhFiIuJPdKcBySbyYtt3dMCF+NiTndskacjQy36k1vyFwxdstmuWPjaW2Kk6xwtKKqOw==",
   "success": true,
-  "projectFilePath": "D:\\Development\\Restaurapp\\Restaurapp.Application\\Restaurapp.Application.csproj",
+  "projectFilePath": "D:\\Development\\#2 rest\\restaurapp\\Restaurapp.Application\\Restaurapp.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Lukasyno\\.nuget\\packages\\mediatr\\12.1.1\\mediatr.12.1.1.nupkg.sha512",
     "C:\\Users\\Lukasyno\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",

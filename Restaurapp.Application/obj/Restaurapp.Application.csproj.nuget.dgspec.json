@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Development\\Restaurapp\\Restaurapp.Application\\Restaurapp.Application.csproj": {}
+    "D:\\Development\\#2 rest\\restaurapp\\Restaurapp.Application\\Restaurapp.Application.csproj": {}
   },
   "projects": {
-    "D:\\Development\\Restaurapp\\Restaurapp.Application\\Restaurapp.Application.csproj": {
+    "D:\\Development\\#2 rest\\restaurapp\\Restaurapp.Application\\Restaurapp.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Development\\Restaurapp\\Restaurapp.Application\\Restaurapp.Application.csproj",
+        "projectUniqueName": "D:\\Development\\#2 rest\\restaurapp\\Restaurapp.Application\\Restaurapp.Application.csproj",
         "projectName": "Restaurapp.Application",
-        "projectPath": "D:\\Development\\Restaurapp\\Restaurapp.Application\\Restaurapp.Application.csproj",
+        "projectPath": "D:\\Development\\#2 rest\\restaurapp\\Restaurapp.Application\\Restaurapp.Application.csproj",
         "packagesPath": "C:\\Users\\Lukasyno\\.nuget\\packages\\",
-        "outputPath": "D:\\Development\\Restaurapp\\Restaurapp.Application\\obj\\",
+        "outputPath": "D:\\Development\\#2 rest\\restaurapp\\Restaurapp.Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Lukasyno\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,11 +28,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\Development\\Restaurapp\\Restaurapp.Contracts\\Restaurapp.Contracts.csproj": {
-                "projectPath": "D:\\Development\\Restaurapp\\Restaurapp.Contracts\\Restaurapp.Contracts.csproj"
+              "D:\\Development\\#2 rest\\restaurapp\\Restaurapp.Contracts\\Restaurapp.Contracts.csproj": {
+                "projectPath": "D:\\Development\\#2 rest\\restaurapp\\Restaurapp.Contracts\\Restaurapp.Contracts.csproj"
               },
-              "D:\\Development\\Restaurapp\\Restaurapp.DataAccess\\Restaurapp.DataAccess.csproj": {
-                "projectPath": "D:\\Development\\Restaurapp\\Restaurapp.DataAccess\\Restaurapp.DataAccess.csproj"
+              "D:\\Development\\#2 rest\\restaurapp\\Restaurapp.DataAccess\\Restaurapp.DataAccess.csproj": {
+                "projectPath": "D:\\Development\\#2 rest\\restaurapp\\Restaurapp.DataAccess\\Restaurapp.DataAccess.csproj"
               }
             }
           }
@@ -76,14 +76,14 @@
         }
       }
     },
-    "D:\\Development\\Restaurapp\\Restaurapp.Contracts\\Restaurapp.Contracts.csproj": {
+    "D:\\Development\\#2 rest\\restaurapp\\Restaurapp.Contracts\\Restaurapp.Contracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Development\\Restaurapp\\Restaurapp.Contracts\\Restaurapp.Contracts.csproj",
+        "projectUniqueName": "D:\\Development\\#2 rest\\restaurapp\\Restaurapp.Contracts\\Restaurapp.Contracts.csproj",
         "projectName": "Restaurapp.Contracts",
-        "projectPath": "D:\\Development\\Restaurapp\\Restaurapp.Contracts\\Restaurapp.Contracts.csproj",
+        "projectPath": "D:\\Development\\#2 rest\\restaurapp\\Restaurapp.Contracts\\Restaurapp.Contracts.csproj",
         "packagesPath": "C:\\Users\\Lukasyno\\.nuget\\packages\\",
-        "outputPath": "D:\\Development\\Restaurapp\\Restaurapp.Contracts\\obj\\",
+        "outputPath": "D:\\Development\\#2 rest\\restaurapp\\Restaurapp.Contracts\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Lukasyno\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -99,7 +99,11 @@
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "D:\\Development\\#2 rest\\restaurapp\\Restaurapp.Domain\\Restaurapp.Domain.csproj": {
+                "projectPath": "D:\\Development\\#2 rest\\restaurapp\\Restaurapp.Domain\\Restaurapp.Domain.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -137,14 +141,14 @@
         }
       }
     },
-    "D:\\Development\\Restaurapp\\Restaurapp.DataAccess\\Restaurapp.DataAccess.csproj": {
+    "D:\\Development\\#2 rest\\restaurapp\\Restaurapp.DataAccess\\Restaurapp.DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Development\\Restaurapp\\Restaurapp.DataAccess\\Restaurapp.DataAccess.csproj",
+        "projectUniqueName": "D:\\Development\\#2 rest\\restaurapp\\Restaurapp.DataAccess\\Restaurapp.DataAccess.csproj",
         "projectName": "Restaurapp.DataAccess",
-        "projectPath": "D:\\Development\\Restaurapp\\Restaurapp.DataAccess\\Restaurapp.DataAccess.csproj",
+        "projectPath": "D:\\Development\\#2 rest\\restaurapp\\Restaurapp.DataAccess\\Restaurapp.DataAccess.csproj",
         "packagesPath": "C:\\Users\\Lukasyno\\.nuget\\packages\\",
-        "outputPath": "D:\\Development\\Restaurapp\\Restaurapp.DataAccess\\obj\\",
+        "outputPath": "D:\\Development\\#2 rest\\restaurapp\\Restaurapp.DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Lukasyno\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -161,8 +165,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\Development\\Restaurapp\\Restaurapp.Domain\\Restaurapp.Domain.csproj": {
-                "projectPath": "D:\\Development\\Restaurapp\\Restaurapp.Domain\\Restaurapp.Domain.csproj"
+              "D:\\Development\\#2 rest\\restaurapp\\Restaurapp.Domain\\Restaurapp.Domain.csproj": {
+                "projectPath": "D:\\Development\\#2 rest\\restaurapp\\Restaurapp.Domain\\Restaurapp.Domain.csproj"
               }
             }
           }
@@ -214,14 +218,14 @@
         }
       }
     },
-    "D:\\Development\\Restaurapp\\Restaurapp.Domain\\Restaurapp.Domain.csproj": {
+    "D:\\Development\\#2 rest\\restaurapp\\Restaurapp.Domain\\Restaurapp.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Development\\Restaurapp\\Restaurapp.Domain\\Restaurapp.Domain.csproj",
+        "projectUniqueName": "D:\\Development\\#2 rest\\restaurapp\\Restaurapp.Domain\\Restaurapp.Domain.csproj",
         "projectName": "Restaurapp.Domain",
-        "projectPath": "D:\\Development\\Restaurapp\\Restaurapp.Domain\\Restaurapp.Domain.csproj",
+        "projectPath": "D:\\Development\\#2 rest\\restaurapp\\Restaurapp.Domain\\Restaurapp.Domain.csproj",
         "packagesPath": "C:\\Users\\Lukasyno\\.nuget\\packages\\",
-        "outputPath": "D:\\Development\\Restaurapp\\Restaurapp.Domain\\obj\\",
+        "outputPath": "D:\\Development\\#2 rest\\restaurapp\\Restaurapp.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Lukasyno\\AppData\\Roaming\\NuGet\\NuGet.Config",

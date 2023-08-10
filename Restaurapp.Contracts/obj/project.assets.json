@@ -47,6 +47,16 @@
         "build": {
           "buildTransitive/netcoreapp3.1/_._": {}
         }
+      },
+      "Restaurapp.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Restaurapp.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Restaurapp.Domain.dll": {}
+        }
       }
     }
   },
@@ -105,11 +115,17 @@
         "microsoft.extensions.dependencyinjection.abstractions.nuspec",
         "useSharedDesignerContext.txt"
       ]
+    },
+    "Restaurapp.Domain/1.0.0": {
+      "type": "project",
+      "path": "../Restaurapp.Domain/Restaurapp.Domain.csproj",
+      "msbuildProject": "../Restaurapp.Domain/Restaurapp.Domain.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
-      "MediatR >= 12.1.1"
+      "MediatR >= 12.1.1",
+      "Restaurapp.Domain >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -118,11 +134,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Development\\Restaurapp\\Restaurapp.Contracts\\Restaurapp.Contracts.csproj",
+      "projectUniqueName": "D:\\Development\\#2 rest\\restaurapp\\Restaurapp.Contracts\\Restaurapp.Contracts.csproj",
       "projectName": "Restaurapp.Contracts",
-      "projectPath": "D:\\Development\\Restaurapp\\Restaurapp.Contracts\\Restaurapp.Contracts.csproj",
+      "projectPath": "D:\\Development\\#2 rest\\restaurapp\\Restaurapp.Contracts\\Restaurapp.Contracts.csproj",
       "packagesPath": "C:\\Users\\Lukasyno\\.nuget\\packages\\",
-      "outputPath": "D:\\Development\\Restaurapp\\Restaurapp.Contracts\\obj\\",
+      "outputPath": "D:\\Development\\#2 rest\\restaurapp\\Restaurapp.Contracts\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Lukasyno\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -138,7 +154,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\Development\\#2 rest\\restaurapp\\Restaurapp.Domain\\Restaurapp.Domain.csproj": {
+              "projectPath": "D:\\Development\\#2 rest\\restaurapp\\Restaurapp.Domain\\Restaurapp.Domain.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

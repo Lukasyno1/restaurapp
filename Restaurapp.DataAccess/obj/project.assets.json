@@ -843,11 +843,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Development\\Restaurapp\\Restaurapp.DataAccess\\Restaurapp.DataAccess.csproj",
+      "projectUniqueName": "D:\\Development\\#2 rest\\restaurapp\\Restaurapp.DataAccess\\Restaurapp.DataAccess.csproj",
       "projectName": "Restaurapp.DataAccess",
-      "projectPath": "D:\\Development\\Restaurapp\\Restaurapp.DataAccess\\Restaurapp.DataAccess.csproj",
+      "projectPath": "D:\\Development\\#2 rest\\restaurapp\\Restaurapp.DataAccess\\Restaurapp.DataAccess.csproj",
       "packagesPath": "C:\\Users\\Lukasyno\\.nuget\\packages\\",
-      "outputPath": "D:\\Development\\Restaurapp\\Restaurapp.DataAccess\\obj\\",
+      "outputPath": "D:\\Development\\#2 rest\\restaurapp\\Restaurapp.DataAccess\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Lukasyno\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -864,8 +864,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\Development\\Restaurapp\\Restaurapp.Domain\\Restaurapp.Domain.csproj": {
-              "projectPath": "D:\\Development\\Restaurapp\\Restaurapp.Domain\\Restaurapp.Domain.csproj"
+            "D:\\Development\\#2 rest\\restaurapp\\Restaurapp.Domain\\Restaurapp.Domain.csproj": {
+              "projectPath": "D:\\Development\\#2 rest\\restaurapp\\Restaurapp.Domain\\Restaurapp.Domain.csproj"
             }
           }
         }
