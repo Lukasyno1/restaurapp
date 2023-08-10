@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "adSKwoieJrzDHDZIbP2JErJ75l2RcNRLJhkkqgohlUNjo6QpIBG/lu2OSOVV/te8raVSN4XghFqqCazUtrkmdg==",
+  "success": true,
+  "projectFilePath": "D:\\Development\\Restaurapp\\Restaurapp.Contracts\\Restaurapp.Contracts.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lukasyno\\.nuget\\packages\\mediatr\\12.1.1\\mediatr.12.1.1.nupkg.sha512",
+    "C:\\Users\\Lukasyno\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\Lukasyno\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
