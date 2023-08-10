@@ -13,3 +13,7 @@ D:\Development\Restaurapp\Restaurapp.Application\obj\Debug\net6.0\Restaurapp.App
 D:\Development\Restaurapp\Restaurapp.Application\obj\Debug\net6.0\refint\Restaurapp.Application.dll
 D:\Development\Restaurapp\Restaurapp.Application\obj\Debug\net6.0\Restaurapp.Application.pdb
 D:\Development\Restaurapp\Restaurapp.Application\obj\Debug\net6.0\ref\Restaurapp.Application.dll
+D:\Development\Restaurapp\Restaurapp.Application\bin\Debug\net6.0\Restaurapp.DataAccess.dll
+D:\Development\Restaurapp\Restaurapp.Application\bin\Debug\net6.0\Restaurapp.Domain.dll
+D:\Development\Restaurapp\Restaurapp.Application\bin\Debug\net6.0\Restaurapp.DataAccess.pdb
+D:\Development\Restaurapp\Restaurapp.Application\bin\Debug\net6.0\Restaurapp.Domain.pdb

@@ -250,7 +250,9 @@
       "Restaurapp.Application/1.0.0": {
         "dependencies": {
           "MediatR": "12.1.1",
-          "Restaurapp.Contracts": "1.0.0"
+          "Microsoft.EntityFrameworkCore": "6.0.12",
+          "Restaurapp.Contracts": "1.0.0",
+          "Restaurapp.DataAccess": "1.0.0"
         },
         "runtime": {
           "Restaurapp.Application.dll": {}

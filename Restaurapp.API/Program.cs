@@ -1,7 +1,10 @@
 using System.Reflection;
 using Microsoft.EntityFrameworkCore;
+using Restaurapp.API.Middlewares;
+using Restaurapp.API.Providers;
 using Restaurapp.Application.QueryHandlers.MenuItems;
 using Restaurapp.DataAccess;
+using Restaurapp.Domain.Providers;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -19,6 +22,7 @@ builder.Services.AddMediatR(cfg =>
 });
 
 builder.Services.AddDbContext<RContext>(options => options.UseNpgsql(builder.Configuration.GetConnectionString("DefaultConnection")));
+builder.Services.AddSingleton<IDateTimeProvider, DateTimeProvider>();
 
 var app = builder.Build();
 
@@ -32,6 +36,7 @@ if (app.Environment.IsDevelopment())
 app.UseHttpsRedirection();
 
 app.UseAuthorization();
+app.UseMiddleware<ApiKeyMiddleware>();
 
 app.MapControllers();
 
